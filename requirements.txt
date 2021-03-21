@@ -1,0 +1,5 @@
+numpy>=1
+gitpython
+# can comment out stuff here due to setup.py parser
+#
+#compliance-checker

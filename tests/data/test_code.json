@@ -1,0 +1,11 @@
+{
+    "project_name": "testingCode",
+    
+    "project_metadata" : "json/{project_name}_metadata.json",
+
+    "platforms" : {
+        "code": {
+            "json_file" : "json/code.json"
+        }
+    }
+}
